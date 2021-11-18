@@ -11,7 +11,7 @@
 
 (資料來源: https://airtw.epa.gov.tw/CHT/Query/His_Data.aspx)
 
-## 目標：
+## 目標
 - 使用 10 和 11 月資料當作訓練集，12 月之資料當作測試集
 - 將前六小時的汙染物數據做為特徵，未來第一個小時/未來第六個小時的 PM2.5 數據為預測目標
 - 使用兩種模型 Linear Regression 和 XGBoost 建模並計算 MAE
