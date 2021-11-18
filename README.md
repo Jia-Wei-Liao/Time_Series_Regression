@@ -1,7 +1,7 @@
 # Data Mining Research & Practice HW3 - Time Series Regression
 ## 資料集敘述
 使用新竹地區 2020 年 10-12 月之空氣品質資料，進行時間序列分析 & 迴歸預測 PM2.5 值。
-本資料集(如附檔)包含 AMB_TEMP、CH4、CO、NMHC、NO、NO2、NOx、O3、PM10、PM2.5、RAINFALL、RH、SO2、THC、WD_HR、WIND_DIREC、WIND_SPEED、WS_HR 共 18 種屬性(汙染物)之逐時資料。其中第一行之 0-23 代表小時
+本資料集(如附檔)包含 AMB_TEMP、CH4、CO、NMHC、NO、NO2、NOx、O3、PM10、PM2.5、RAINFALL、RH、SO2、THC、WD_HR、WIND_DIREC、WIND_SPEED、WS_HR 共 18 種屬性(汙染物)之逐時資料。其中第一行之 0-23 代表小時。
 
 - \# 表示儀器檢核為無效值
 - \* 表示程式檢核為無效值
